@@ -9,6 +9,6 @@ int main()
     cin>>a>>b;
     max=a;
     if (max<b) max=b;
-    cout<<"max ="<<max ;
+    cout<<"max (A,B) ="<<max ;
     return 0;
 }
