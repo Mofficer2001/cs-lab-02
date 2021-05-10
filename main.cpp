@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     cout << "Enter A, B :" << endl;
-    int a,b,max;
+    double a,b,max;
     cin>>a>>b;
     /*cout<<"A / B ="<<(int)(a/b);*/
     max=a;
