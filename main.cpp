@@ -10,6 +10,6 @@ int main()
     /*cout<<"A / B ="<<(int)(a/b);*/
     max=a;
     if (max<b) max=b;
-    cout<<"max (A,B) ="<<max ;
+    cout<<"max (A,B)="<<max ;
     return 0;
 }
