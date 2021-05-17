@@ -8,6 +8,10 @@ int main()
     double a,b,max;
     cin>>a>>b;
     /*cout<<"A / B ="<<(int)(a/b);*/
+    cout << "A + B="<<a+b<<'\n';
+    cout<<"A-B="<<a-b<<'\n';
+    cout<<"A*B="<<a*b<<endl;
+    cout<<"A / B ="<<(int)(a/b);
     max=a;
     if (max<b) max=b;
     cout<<"max (A,B)="<<max ;
